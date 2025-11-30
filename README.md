@@ -48,7 +48,7 @@ It unlocks the full potential of the client by removing distractions, enforcing 
 
 ## 🚀 Installation
 
-1. Download the latest `patch.ps1` file from the Releases page.
+1. Download the latest `patch_final.ps1` file from the Releases page.
 2. Right-click the file.
 3. Select **"Run with PowerShell"**.
 4. Wait for the process to finish (approx. 15–30 seconds).
